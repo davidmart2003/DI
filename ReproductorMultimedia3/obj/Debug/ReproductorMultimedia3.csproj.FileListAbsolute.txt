@@ -1,0 +1,14 @@
+C:\Users\David\Source\Repos\ReproductorMultimedia3\bin\Debug\ReproductorMultimedia3.exe.config
+C:\Users\David\Source\Repos\ReproductorMultimedia3\bin\Debug\ReproductorMultimedia3.exe
+C:\Users\David\Source\Repos\ReproductorMultimedia3\bin\Debug\ReproductorMultimedia3.pdb
+C:\Users\David\Source\Repos\ReproductorMultimedia3\bin\Debug\ReproductorMultimedia.dll
+C:\Users\David\Source\Repos\ReproductorMultimedia3\bin\Debug\ReproductorMultimedia.pdb
+C:\Users\David\Source\Repos\ReproductorMultimedia3\obj\Debug\ReproductorMultimedia3.csproj.AssemblyReference.cache
+C:\Users\David\Source\Repos\ReproductorMultimedia3\obj\Debug\ReproductorMultimedia3.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\Source\Repos\ReproductorMultimedia3\obj\Debug\ReproductorMultimedia3.Form1.resources
+C:\Users\David\Source\Repos\ReproductorMultimedia3\obj\Debug\ReproductorMultimedia3.Properties.Resources.resources
+C:\Users\David\Source\Repos\ReproductorMultimedia3\obj\Debug\ReproductorMultimedia3.csproj.GenerateResource.cache
+C:\Users\David\Source\Repos\ReproductorMultimedia3\obj\Debug\ReproductorMultimedia3.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\ReproductorMultimedia3\obj\Debug\ReproductorMultimedia3.csproj.CopyComplete
+C:\Users\David\Source\Repos\ReproductorMultimedia3\obj\Debug\ReproductorMultimedia3.exe
+C:\Users\David\Source\Repos\ReproductorMultimedia3\obj\Debug\ReproductorMultimedia3.pdb

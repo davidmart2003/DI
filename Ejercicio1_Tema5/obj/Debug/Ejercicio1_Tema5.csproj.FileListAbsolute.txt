@@ -1,0 +1,9 @@
+C:\Users\David\Source\Repos\Ejercicio1_Tema5\bin\Debug\Ejercicio1_Tema5.dll
+C:\Users\David\Source\Repos\Ejercicio1_Tema5\bin\Debug\Ejercicio1_Tema5.pdb
+C:\Users\David\Source\Repos\Ejercicio1_Tema5\obj\Debug\Ejercicio1_Tema5.csproj.AssemblyReference.cache
+C:\Users\David\Source\Repos\Ejercicio1_Tema5\obj\Debug\Ejercicio1_Tema5.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\Ejercicio1_Tema5\obj\Debug\Ejercicio1_Tema5.dll
+C:\Users\David\Source\Repos\Ejercicio1_Tema5\obj\Debug\Ejercicio1_Tema5.pdb
+C:\Users\David\Source\Repos\Ejercicio1_Tema5\obj\Debug\Ejercicio1_Tema5.UserControl1.resources
+C:\Users\David\Source\Repos\Ejercicio1_Tema5\obj\Debug\Ejercicio1_Tema5.csproj.GenerateResource.cache
+C:\Users\David\Source\Repos\Ejercicio1_Tema5\obj\Debug\Ejercicio1_Tema5.EtiquetaAviso.resources

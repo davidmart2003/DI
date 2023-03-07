@@ -1,0 +1,8 @@
+C:\Users\David\Source\Repos\ReproductorMultimedia\bin\Debug\ReproductorMultimedia.dll
+C:\Users\David\Source\Repos\ReproductorMultimedia\bin\Debug\ReproductorMultimedia.pdb
+C:\Users\David\Source\Repos\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.csproj.AssemblyReference.cache
+C:\Users\David\Source\Repos\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.ReproductorMultimedia.resources
+C:\Users\David\Source\Repos\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.csproj.GenerateResource.cache
+C:\Users\David\Source\Repos\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.dll
+C:\Users\David\Source\Repos\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.pdb
